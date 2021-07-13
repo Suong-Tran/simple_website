@@ -1,8 +1,7 @@
 /*
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
-    Content-Security-Policy: default-src 'self' https://www.w3schools.com/w3css/4/w3.css
-     X-Content-Type-Options: nosniff
+    X-Content-Type-Options: nosniff
     Referrer-Policy: strict-origin-when-cross-origin
     Permissions-Policy: geolocation=(self), microphone=(), camera=(), fullscreen=*
     
